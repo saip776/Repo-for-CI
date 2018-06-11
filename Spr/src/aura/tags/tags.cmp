@@ -1,0 +1,9 @@
+<aura:component >
+    
+    <lightning:input type="number" name="input7" 
+                     label="Number field with currency formatter" 
+                     value="123.45" formatter="currency" step="0.01"/>
+
+
+	
+</aura:component>

@@ -1,0 +1,5 @@
+<aura:component implements="force:appHostable">
+	<p> Hello Lighting? </p>
+    <ui:inputDate label="Start Date" />
+    <lightning:input type="date" label="end date" />
+</aura:component>
